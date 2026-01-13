@@ -1,8 +1,3 @@
-# movie-recommender-db
-
-자세한 분석 결과 : `MOVIEDB_report.pdf`에서 확인 가능합니다.
-<br>
-
 
 # Movie Recommendation Database (MySQL)
 
@@ -13,6 +8,10 @@
 
 사용자(User)의 리뷰/평점 데이터를 기반으로 **선호 장르/감독/출연진 분석**이 가능하며,<br> 
 추천 모델의 입력 데이터로 바로 활용할 수 있도록 **정규화된 스키마 + 무결성 제약 + 분석 SQL**을 포함합니다.
+
+<br>
+
+자세한 분석 결과 : `MOVIEDB_report.pdf`에서 확인 가능합니다.
 
 ---
 
