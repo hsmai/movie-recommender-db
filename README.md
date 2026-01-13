@@ -4,6 +4,7 @@
 
 # MovieRec-DB | Movie Recommendation Database (MySQL)
 
+
 영화 추천 알고리즘(협업 필터링 / 콘텐츠 기반 / 하이브리드)을 위한 **평점·리뷰 중심 관계형 데이터베이스(MySQL)** 를 설계하고 구축한 프로젝트입니다.
 
 <br>
@@ -18,6 +19,11 @@
 - **참조 무결성(FOREIGN KEY)** 및 제약조건으로 데이터 품질 보장
 - 샘플 데이터 삽입 후 **분석/인사이트 SQL**로 결과 확인
 - 추천 모델에서 바로 사용할 수 있는 형태로 **행렬/피처 추출 쿼리** 제공
+
+---
+
+## ER Diagram
+<img width="678" height="494" alt="스크린샷 2026-01-13 19 38 51" src="https://github.com/user-attachments/assets/1035d85a-7686-4922-bc14-3b5fa2d3a748" />
 
 ---
 
