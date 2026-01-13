@@ -2,7 +2,7 @@
 
 자세한 분석 결과 : `MOVIEDB_report.pdf`에서 확인 가능합니다.
 
-# MovieRec-DB | Movie Recommendation Database (MySQL)
+# Movie Recommendation Database (MySQL)
 
 
 영화 추천 알고리즘(협업 필터링 / 콘텐츠 기반 / 하이브리드)을 위한 **평점·리뷰 중심 관계형 데이터베이스(MySQL)** 를 설계하고 구축한 프로젝트입니다.
